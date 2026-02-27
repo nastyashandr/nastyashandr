@@ -57,7 +57,7 @@ I've been passionate about Frontend development for over a year. During this tim
 
 *   **Telegram:** [@nastya_shandr](https://t.me/nastya_shandr)
 *   **Email:** [nshandr368а@gmail.com](mailto:nshandr368а@gmail.com)
-*   **LinkedIn:** [linkedin.com/in/настя-шандриченко-222859386](https://www.linkedin.com/in/настя-шандриченко-222859386)
+*   **LinkedIn:** [linkedin.com/in/nastyashandr](https://www.linkedin.com/in/nastyashandr)
 
 ---
 
