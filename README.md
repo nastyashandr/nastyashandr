@@ -32,7 +32,15 @@ The website is built with SCSS, HTML and JavaScript. There are custom select dro
 
 Link: https://nastyashandr.github.io/future-tech/
 
-**2. 🚗 Auto Repair Shop Website**  
+**2. ✈️ Website for URelocation**  
+A two-page website for the company URelocation, which is engaged in transporting people. Uses HTML, SCSS, JavaScript, and the JQuery library. The website is fully responsive.
+
+<img width="786" height="944" alt="image" src="https://github.com/user-attachments/assets/d454b3c6-8975-49ed-bc21-daabbf3ab345" />
+<img width="778" height="937" alt="image" src="https://github.com/user-attachments/assets/a6b6f40e-c613-4545-bc0d-9f84bcad90b2" />
+
+Link: https://nastyashandr.github.io/URelocation/
+
+**3. 🚗 Auto Repair Shop Website**  
 A website for the Finsweet auto repair shop, which provides various car repair and maintenance services. The site is built with HTML, CSS, and JavaScript using the jQuery library. 
 
 <img width="1511" height="926" alt="image" src="https://github.com/user-attachments/assets/90abc2f9-53dd-4b01-9ca6-fbc895dd9fb0" />
@@ -40,7 +48,7 @@ A website for the Finsweet auto repair shop, which provides various car repair a
 
 Link: https://nastyashandr.github.io/finsweet/
 
-**3. 📚 CreateX Website**  
+**4. 📚 CreateX Website**  
 A website for the online school Createx, which teaches programming, development, design, and much more. The site is built with HTML, CSS, and JavaScript using the JQuery library.
 
 <img width="528" height="967" alt="image" src="https://github.com/user-attachments/assets/a6f67b5c-a9dd-4f57-8252-7ef4d93f9aa8" />
